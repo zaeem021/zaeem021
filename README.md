@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m a MERN Stack Developer with a strong focus on building scalable and user-centric web applications. I’m currently pursuing a degree in Computer Science at Iqra University, with an expected graduation in 2027. I have hands-on experience working with modern JavaScript technologies across the full stack, and I’m passionate about continuously improving my problem-solving and development skills. Beyond my academic and professional journey, I’m deeply interested in exploring new technologies and staying up to date with the evolving world of software development.
-
+Passionate MERN Stack Developer and Computer Science student with experience in full-stack web development, modern JavaScript frameworks, and data-driven tools. Focused on building scalable, clean, and user-centric applications while continuously learning new technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/17u1yRZaS1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaeem_rehman21?igsh=MXZjcHYwZWgwaTdqcQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaeemrehman-web-developer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZaeemRehman21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaeemrehman433@gmail.com)
