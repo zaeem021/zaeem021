@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 CS Student | Full-Stack Developer<br>⚛️ React • Node.js • Express • WordPress<br>🤖 AI, Chatbots & API Integrations | Learning & Building
+I’m a MERN Stack Developer with a strong focus on building scalable and user-centric web applications. I’m currently pursuing a degree in Computer Science at Iqra University, with an expected graduation in 2027. I have hands-on experience working with modern JavaScript technologies across the full stack, and I’m passionate about continuously improving my problem-solving and development skills. Beyond my academic and professional journey, I’m deeply interested in exploring new technologies and staying up to date with the evolving world of software development.
 
 
 ## 🌐 Socials:
