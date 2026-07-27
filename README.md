@@ -48,7 +48,6 @@ I'm passionate about continuous learning and improving my skills through practic
 ## 📈 My Learning Path
 
 ```
-[✅] Cybersecurity Diploma
 [✅] Home SOC Lab Setup (VMware + Windows Server + Kali Linux)
 [✅] IBM QRadar Deployment & Log Analysis
 [✅] Wazuh SIEM Deployment & Agent Configuration
