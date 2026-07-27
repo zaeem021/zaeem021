@@ -1,17 +1,94 @@
-# 💫 About Me:
-Passionate MERN Stack Developer and Computer Science student with experience in full-stack web development, modern JavaScript frameworks, and data-driven tools. Focused on building scalable, clean, and user-centric applications while continuously learning new technologies.
+<h1 align="center">Muhammad Zaeem Rehman 👋</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/17u1yRZaS1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaeem_rehman21?igsh=MXZjcHYwZWgwaTdqcQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaeemrehman-web-developer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZaeemRehman21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaeemrehman433@gmail.com)
+<h3 align="center">Cybersecurity Enthusiast | Aspiring SOC Analyst | Wazuh & IBM QRadar SIEM | Threat Analysis | Network Security</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zaeem021&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zaeem021&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaeem021&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaeemrehman21/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/zaeemrehman433">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zaeem021&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+I'm an aspiring SOC Analyst with a strong interest in Security Operations, Threat Detection, and Incident Response. I enjoy building hands-on labs and strengthening my practical cybersecurity skills.
+
+**Core Skills:**
+
+• Security Monitoring & Log Analysis
+• Alert Investigation
+• Wazuh SIEM
+• IBM QRadar SIEM
+• Active Directory
+• pfSense Firewall
+• Network Security
+
+I'm passionate about continuous learning and improving my skills through practical labs and real-world scenarios. My goal is to start my career in a Security Operations Center (SOC), contribute to protecting organizations from cyber threats, and continue growing as a cybersecurity professional.
+
+---
+
+## 🛡️ SOC & Blue Team Skills
+
+| Category | Tools & Technologies |
+|---|---|
+| **SIEM** | Wazuh, IBM QRadar |
+| **Log Analysis** | Windows Event Viewer, Sysmon, Wazuh Alerts, QRadar Log Activity |
+| **Operating Systems** | Windows 10/11, Kali Linux |
+| **Network Security** | pfSense Firewall, DNS Filtering, Network Traffic Monitoring |
+| **SOC Skills** | Threat Hunting, File Integrity Monitoring (FIM), Custom Detection Rules, Log Collection, Security Event Investigation |
+| **Virtualization** | VMware Workstation Pro |
+
+
+---
+
+## 📈 My Learning Path
+
+```
+[✅] Cybersecurity Diploma
+[✅] Home SOC Lab Setup (VMware + Windows Server + Kali Linux)
+[✅] IBM QRadar Deployment & Log Analysis
+[✅] Wazuh SIEM Deployment & Agent Configuration
+[✅] Wazuh File Integrity Monitoring (FIM)
+[✅] Custom Detection Rules & Threat Hunting
+[✅] pfSense Firewall Configuration & Website Blocking
+[✅] pfSense Integration with Wazuh
+[✅] WinCollect Deployment & Windows Event Log Collection
+[✅] TryHackMe SOC Level 1 Path
+[⬜] ELK Stack Lab Setup & Log Collection
+[⬜] CompTIA Security+ (In Progress)
+
+```
+
+---
+
+## 🔥 TryHackMe Stats
+
+<p align="center">
+  <a href="https://tryhackme.com/p/zaeemrehman433">
+    <img src="https://assets.tryhackme.com/room-badges/a7aaad309b0a69f8b073d75f495b4008.png"/>
+  </a>
+</p>
+
+| Stat | Value |
+|---|---|
+| 🏠 Rooms Completed | 12 |
+| ⭐ Rank | Top 35% |
+| 🏅 Badges | 1 |
+
+---
+
+## 📬 Let's Connect
+
+I'm passionate about Blue Team operations, SOC monitoring, and threat detection. I'm actively seeking entry-level SOC Analyst opportunities where I can apply and expand my hands-on cybersecurity skills.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaeemrehman21/">LinkedIn</a>
+</p>
+
+---
+
+<p align="center"><i>"Turning security events into actionable insights—one alert at a time."</i></p>
