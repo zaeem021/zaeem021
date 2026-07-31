@@ -145,17 +145,19 @@ I continuously expand my knowledge by working on practical cybersecurity project
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zaeem021&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaeem021&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=zaeem021&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=zaeem021&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaeem021&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaeem021&layout=compact&theme=tokyonight" />
+</p>
+
+
 
 ---
 
