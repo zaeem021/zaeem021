@@ -1,6 +1,8 @@
-<h1 align="center">Muhammad Zaeem Rehman 👋</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Zaeem Rehman</h1>
 
-<h3 align="center">Cybersecurity Enthusiast | Aspiring SOC Analyst | Wazuh & IBM QRadar SIEM | Threat Analysis | Network Security</h3>
+<h3 align="center">
+Cybersecurity | SOC Operations | SIEM (IBM QRadar & Wazuh) | Log Analysis | Threat Detection | Network Security
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaeemrehman21/">
@@ -11,83 +13,170 @@
   </a>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-I'm an aspiring SOC Analyst with a strong interest in Security Operations, Threat Detection, and Incident Response. I enjoy building hands-on labs and strengthening my practical cybersecurity skills.
-
-**Core Skills:**
-
-• Security Monitoring & Log Analysis
-• Alert Investigation
-• Wazuh SIEM
-• IBM QRadar SIEM
-• Active Directory
-• pfSense Firewall
-• Network Security
-
-I'm passionate about continuous learning and improving my skills through practical labs and real-world scenarios. My goal is to start my career in a Security Operations Center (SOC), contribute to protecting organizations from cyber threats, and continue growing as a cybersecurity professional.
-
----
-
-## 🛡️ SOC & Blue Team Skills
-
-| Category | Tools & Technologies |
-|---|---|
-| **SIEM** | Wazuh, IBM QRadar |
-| **Log Analysis** | Windows Event Viewer, Sysmon, Wazuh Alerts, QRadar Log Activity |
-| **Operating Systems** | Windows 10/11, Kali Linux |
-| **Network Security** | pfSense Firewall, DNS Filtering, Network Traffic Monitoring |
-| **SOC Skills** | Threat Hunting, File Integrity Monitoring (FIM), Custom Detection Rules, Log Collection, Security Event Investigation |
-| **Virtualization** | VMware Workstation Pro |
-
-
----
-
-## 📈 My Learning Path
-
-```
-[✅] Home SOC Lab Setup (VMware + Windows Server + Kali Linux)
-[✅] IBM QRadar Deployment & Log Analysis
-[✅] Wazuh SIEM Deployment & Agent Configuration
-[✅] Wazuh File Integrity Monitoring (FIM)
-[✅] Custom Detection Rules & Threat Hunting
-[✅] pfSense Firewall Configuration & Website Blocking
-[✅] pfSense Integration with Wazuh
-[✅] WinCollect Deployment & Windows Event Log Collection
-[✅] TryHackMe SOC Level 1 Path
-[⬜] ELK Stack Lab Setup & Log Collection
-[⬜] CompTIA Security+ (In Progress)
-
-```
-
----
-
-## 🔥 TryHackMe Stats
-
 <p align="center">
-  <a href="https://tryhackme.com/p/zaeemrehman433">
-    <img src="https://assets.tryhackme.com/room-badges/a7aaad309b0a69f8b073d75f495b4008.png"/>
-  </a>
-</p>
-
-| Stat | Value |
-|---|---|
-| 🏠 Rooms Completed | 12 |
-| ⭐ Rank | Top 35% |
-| 🏅 Badges | 1 |
-
----
-
-## 📬 Let's Connect
-
-I'm passionate about Blue Team operations, SOC monitoring, and threat detection. I'm actively seeking entry-level SOC Analyst opportunities where I can apply and expand my hands-on cybersecurity skills.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zaeemrehman21/">LinkedIn</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=SOC+Operations;Blue+Team;SIEM+(IBM+QRadar+%26+Wazuh);Threat+Detection+%26+Incident+Response;Always+Learning+Cybersecurity" />
 </p>
 
 ---
 
-<p align="center"><i>"Turning security events into actionable insights—one alert at a time."</i></p>
+## 👨‍💻 About Me
+
+I specialize in Security Operations, Threat Detection, Incident Response, and Blue Team technologies through extensive hands-on lab environments.
+
+My experience includes deploying and configuring SIEM solutions, investigating security events, analyzing Windows logs, implementing File Integrity Monitoring (FIM), configuring pfSense firewalls, and building enterprise-style SOC labs using VMware.
+
+I continuously expand my knowledge by working on practical cybersecurity projects and realistic attack-defense scenarios.
+
+🎯 **Focus Areas:** Security Monitoring • Threat Hunting • Log Analysis • Incident Response • SIEM Engineering
+
+---
+
+# 🛠 Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sysmon-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Windows_Event_Logs-0078D6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat_Hunting-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Log_Analysis-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+</p>
+
+---
+
+# 🛡 SOC & Blue Team Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| SIEM | Wazuh, IBM QRadar |
+| Log Analysis | Sysmon, Windows Event Viewer, QRadar Log Activity |
+| Network Security | pfSense Firewall, DNS Filtering |
+| Threat Detection | File Integrity Monitoring, Threat Hunting |
+| Operating Systems | Windows 10/11, Kali Linux |
+| Virtualization | VMware Workstation Pro |
+
+---
+
+# 📚 Current Learning
+
+```text
+✅ Home SOC Lab
+✅ Wazuh SIEM
+✅ IBM QRadar
+✅ WinCollect
+✅ pfSense Integration
+✅ Custom Detection Rules
+✅ Threat Hunting
+✅ TryHackMe SOC Level 1
+
+⬜ ELK Stack
+⬜ Security+
+⬜ Splunk
+⬜ Microsoft Sentinel
+```
+
+---
+
+# 🚀 Featured Projects
+
+🔹 Wazuh SIEM Deployment
+
+🔹 IBM QRadar Log Analysis
+
+🔹 WinCollect Configuration
+
+🔹 pfSense + Wazuh Integration
+
+🔹 Active Directory Lab
+
+---
+
+# 🔥 TryHackMe
+
+<p align="center">
+
+<a href="https://tryhackme.com/p/zaeemrehman433">
+<img src="https://assets.tryhackme.com/room-badges/a7aaad309b0a69f8b073d75f495b4008.png"/>
+</a>
+
+</p>
+
+<table align="center">
+<tr>
+<th>Stat</th>
+<th>Value</th>
+</tr>
+
+<tr>
+<td>🏠 Rooms Completed</td>
+<td align="center">12+</td>
+</tr>
+
+<tr>
+<td>⭐ Rank</td>
+<td align="center">Top 35%</td>
+</tr>
+
+<tr>
+<td>🏅 Badges</td>
+<td align="center">1</td>
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zaeem021&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaeem021&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zaeem021&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/zaeemrehman21/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://tryhackme.com/p/zaeemrehman433">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Turning security events into actionable insights—one alert at a time."*
+
+</div>
